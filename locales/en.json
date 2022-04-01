@@ -1,0 +1,26 @@
+{
+	"utilities": {
+		"errorEmbed": "Error.",
+		"noInvitePerms": "I need 'create invitations' permission to use this command.",
+		"unexpectedError": "An unexpected error has ocurred."
+	},
+	"avatar": {
+		"objective": "{username}'s avatar is:",
+		"self": "Your avatar is:"
+	},
+	"lang": {
+		"newLanguage": "You've changed the language.",
+		"noAdministrator": "You don't have enought permissions."
+	},
+	"youtube": {
+		"noChannel": "You must be in a voice channel to use this command.",
+		"loading": "Starting youtube..."
+	},
+	"cartasKpop": {
+		"cartasKpopOn": "The cartasKPOP HACKER has been activated.",
+		"cartasKpopOff": "You've turned off The cartasKPOP HACKER."
+	},
+	"music": {
+		"play": "Your song is being played."
+	}
+}

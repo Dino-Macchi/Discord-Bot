@@ -1,0 +1,26 @@
+{
+	"utilities": {
+		"errorEmbed": "Error.",
+		"noInvitePerms": "Necesito el permiso de 'crear invitaciones' para ejecutar este comando.",
+		"unexpectedError": "Ha ocurrido un error inesperado."
+	},
+	"avatar": {
+		"objective": "El avatar de {username} es:",
+		"self": "Tu avatar es:"
+	},
+	"lang": {
+		"newLanguage": "Has cambiado el idioma.",
+		"noAdministrator": "No tienes suficientes permisos."
+	},
+	"youtube": {
+		"noChannel": "Necesitas estar en un canal de voz.",
+		"loading": "Iniciando youtube..."
+	},
+	"cartasKpop": {
+		"cartasKpopOn": "El hackeador de cartas ha sido prendido.",
+		"cartasKpopOff": "El hackeador de cartas ha sido apagado."
+	},
+	"music": {
+		"play": "Se ha reproducido tu canción."
+	}
+}
